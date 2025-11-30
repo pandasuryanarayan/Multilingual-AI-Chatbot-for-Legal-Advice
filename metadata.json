@@ -1,0 +1,7 @@
+{
+  "name": "NyayaSetu - Accessible Legal Aid",
+  "description": "A multilingual AI legal assistant for India, providing accessible guidance, procedure explanations, and eligibility checks via voice and text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
